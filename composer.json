@@ -1,0 +1,13 @@
+{
+  "name": "youloge/sqlite",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin youloge/sqlite",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Youloge\\Sqlite\\": "src"
+    }
+  }
+}
